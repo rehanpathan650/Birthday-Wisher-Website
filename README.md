@@ -1,12 +1,29 @@
-# React + Vite
+# 🎉 Birthday Wisher Website – Custom Greeting Card Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Greetify** is a fun and interactive web app that lets users create personalized greeting cards right in the browser. Drag and place text, edit messages, and download your final card as an image — no design tools needed!
 
-Currently, two official plugins are available:
+![Preview]([https://birthday-wisher-website.vercel.app/) <!-- Optional: Add a preview image link here -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✍️ **Editable Messages** – Customize your greeting text in real time.
+- 🎯 **Draggable Text** – Move text freely on the card for perfect positioning.
+- 🖼️ **Live Preview** – Instantly see how your card looks.
+- 📥 **Download as Image** – Export your card as a PNG file with one click.
+- 🛠️ **Built with:** React, TailwindCSS, html2canvas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Live Demo
+
+👉 [Try it now]([https://birthday-wisher-website.vercel.app/])
+
+## 📂 Repository
+
+💻 [Source Code on GitHub](https://github.com/rehanpathan650/Birthday-Wisher-Website)
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/rehanpathan650/Birthday-Wisher-Website
+cd birthday-website-builder
+npm install
+npm start
